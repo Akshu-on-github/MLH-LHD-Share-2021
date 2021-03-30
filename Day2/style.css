@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.bluecircle {
+  margin:0;
+  padding:0;
+  font-size: 30px;
+  background-color: blue;
+  height: 3em;
+  width: 3em;
+  border-radius: 70%;
+  position: absolute;
+  top: 50px;
+  left: 100px;
+}
